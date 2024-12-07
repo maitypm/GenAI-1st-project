@@ -1,0 +1,158 @@
+ 
+ 
+ 
+  
+ PRASANJIT MAITY  
+Targeting a senior -level position in Data Analysis and Data S cience,  leveraging extensive 
+experience in managing teams and driving revenue impact. Looking for a role that enables 
+strategic planning, stakeholder management, and ongoing involvement in data analysis and 
+visualization.   
++91 9004 369 549   
+pa.maity@outlook.com   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  PROFILE SUMMARY  
+ 
+ PGP -BABI in Business Analytics and Business Intelligence Certified 
+professional  nearly 17 years  of experience in data analysis and data science,  
+focusing on predictive analytics, visualization, and strategic planning across 
+diverse industries.  
+ Currently, l eading analytics and strategy as a Senior Manager at Kotak 
+Securities,  Mumbai, driving initiatives in recommendation systems, activation 
+prediction models, and next -best -action engines.  
+ Skilled  in leading and managing cross -functional teams, with a strong focus on 
+strategic planning, stakeholder management, and driving reve nue impact 
+through data -driven decision -making.  
+ Influencing the strategic direction  of the company by identifying opportunities 
+in large, rich data sets and creating and implementing data -driven strategies that 
+fuel growth including revenue and profits.  
+ Designing and implementing statistical/predictive models  and cutting edge 
+algorithms utilizing diverse sources of data to predict demand, risk and price 
+elasticity; analyzing large simulation datasets . 
+ Devising strategies for existing processes and work -flow s to develop newer and 
+advanced work -flows to attain business goals both internal as well external; 
+creating and implementing annual Quality and Process Excellence.  
+ 
+ EDUCATION  
+ 
+- PGP -BABI in Business Analytics and Business Intelligence from Great Lakes 
+Institute of Management, Pune, 2017  
+- PGDM in Banking, Insurance & Investment from Welingkar’s Institute, 
+Mumbai, Sep 2014  
+- B.Com. from Mumbai University, Mar 2007  
+ CAREER TIMELINE  (Latest 4)  
+ 
+ 
+  CORE COMPETENCIES  
+ 
+       
+ 
+ TECHNICAL SKILLS  
+Tools:  Python, PowerBI, MySQL, Excel , CleverTap, 
+AWS, Tableau  
+ML Techniques:  Cluster Analysis (K -Means / K -
+Prototypes), Predictive Modeling, Churn Analysis, 
+A/B Testing Analysis, Data Mining, Data 
+Visualization, Marketing & CRM Analytics, Product 
+Analytics, Break -Even Analysis, Text Analysis, 
+Recommenda tion Systems  
+ 
+ WORK EXPERIENCE  
+Senior Manager – Analytics & Strategy | Kotak Securities, Mumbai | May 2022 – Present  
+Responsibilities:  
+ Designing and implementing a recommendation system using Collaborative Filtering; analyzing client purchase history to recommend 
+stocks similar to previous transactions & utilizing client behavior and profiles to suggest stocks based on similarities with  other clients.  
+ Developing and maintaining an Activation Prediction model; identifying the best set of newly acquired clients with the highest 
+probability of activating within T+1 days of account opening & collaborating with the dealer to facilitate the activation pro cess for 
+identified clients.  
+ Creating and maintaining a Next -Best -Action engine for personalized marketing  communication; optimizing over 100 marketing 
+messages daily based on client -level preferences such as preferred channel, time of day, and product preference.  
+ Developing and curating propensity models for diverse financial products, including Mutual Funds,  ETFs, Stock SIP, and Margin Trading.  
+ Utilize predictive analytics to forecast client tendencies towards specific products.  
+Project Management  & Team Building   
+ Data Visualization  App Analytics  A/B Testing  of Marketing Campaigns  
+ Text Analysis to Detect  Escalation  Cross -selling using Propensity Model  
+ Fraud Analytics  
+ Customer Segmen tation using ML Client/ Stakeholder Management  
+Jun’12 – Sep’18 Oct’18 – Apr’22 Aug’07 – May’12 
+May’22  – Present  Colliers Inter., 
+Mumbai & 
+Bangalore  HDFC Securities, 
+Mumbai  Cheers 
+Interactive, 
+Navi Mumbai  Kotak 
+Securities, 
+Mumbai   Acting as a Single Point of Contact (SPOC) for the marketing and product team s; regularly publishing and reviewing the performance o f 
+various marketing campaigns  and app feature introduction . 
+ Conducting in -depth data analysis to derive actionable insights; generating reports and visualizations to communicate findings 
+effectively & collaborating with cross -functional teams to ensure dat a-driven decision -making.  
+ 
+Achievement s: 
+ Implemented a stock recommendation system using collaborative filtering, resulting in enhanced client engagement and stock trading.  
+CTR ratio of communications where stock recommendations were used  improved from 7% to 13%.  
+ Orchestrated the implementation of data -driven strategies, resulting in 90% digital penetration, from 75%, and increased retention of 
+top 25% clients from 50% to 60% . 
+ Cross -selling recommendations have increased product -per-customer from 1.08 to 1. 76. 
+ 
+HDFC Securities, Mumbai | Data Analyst – Digital Strategy | Oct 2018 – Apr 2022  
+ 
+Responsibilities:  
+ Evaluated customer trading behavior to identify opportunities for migrating them from offline to online platforms; developed initiatives 
+and recommendations to encourage and facilitate the transition.  
+ Analyzed response data from marketing campaigns to assess their effectiveness; evaluated the performance of different channel s and 
+recommended optimizations for future campaigns.  
+ Formulated and up dated product propensity models for cross -selling initiatives; predicted customers who were at risk of going dormant 
+and tailored strategies to retain their engagement.  
+ Led and supervised a team of executives responsible for maintaining Management Informat ion System (MIS) related to Activation, 
+Digital Penetration, and Marketing efficiency.  
+ Overseen the creation and maintenance of reports using the company's in -built Business Intelligence (BI) tool.  
+ Provided data -driven insights to support strategic decisio n-making related to customer engagement, marketing strategies, and product 
+cross -selling.  
+ 
+Colliers International, Mumbai & Bangalore | Manager – Business Intelligence | Jun 2012 – Sep 2018  
+ 
+Responsibilities:  
+ Analyzed CRM and transactional data of Colliers  India to identify additional business opportunities with existing clients; utilized data 
+insights to support strategic decision -making and enhance client engagement.  
+ Collaborated with all Service Lines of the company to generate and report market insights  published in monthly Research reports.  
+ Provided comprehensive and data -driven analyses to contribute to the company's thought leadership in the real estate sector.  
+ Kept track of price trends in the commercial and residential real estate market; provided t imely and accurate information on pricing 
+dynamics to support pricing strategies and market positioning.  
+ Monitored market deals and analyzed lost opportunities in the real estate sector; provided insights and recommendations to mi tigate 
+potential losses an d improve deal conversion rates.  
+ Supervised the team in compiling and maintaining a real estate portfolio database of corporate clients through primary and se condary 
+research.  
+ Ensured the accuracy, completeness, and relevance of the database to support bus iness development activities.  
+ Directed and supported the BI team to successfully achieve their performance targets.  
+ 
+Team Leader - Knowledge Management | Cheers Interactive, Navi Mumbai | Aug 2007 – May  2012  
+Responsibilities:  
+ Conducted various pilot projec ts for the company, providing direct reports to the Business Development team.  
+ Reviewed the recruitment, training, and management of team members for projects, and ultimately transferred the team after th e 
+project is converted into an account.  
+ Commenced as  a data researcher, advancing to the role of quality analyst for the team.  
+ 
+ 
+ PERSONAL DETAILS  
+ 
+Date of Birth:  26th April 1986  
+Languages Known: English, Hindi, Marathi, Bengali  
+Address : Cosmos Orchid  CHS, Kasarvadavali, Thane (West) – 400615  
+ 
